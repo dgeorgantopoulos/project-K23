@@ -1,0 +1,165 @@
+euro-night-0000010.instance:
+    incremental:    
+        incremental_edge_selection1_initialization1a, ratio: 0.677443, construction time: 0
+        incremental_edge_selection1_initialization1b, ratio: 0.60681, construction time: 0
+        incremental_edge_selection1_initialization2a, ratio: 0.765423, construction time: 0
+        incremental_edge_selection1_initialization2b, ratio: 0.482734, construction time: 0
+
+        incremental_edge_selection2_initialization1a, ratio: 0.477922, construction time: 2
+        incremental_edge_selection2_initialization1b, ratio: 0.610089, construction time: 1
+        incremental_edge_selection2_initialization2a, ratio: 0.513124, construction time: 1
+        incremental_edge_selection2_initialization2b, ratio: 0.521021, construction time: 1
+
+        incremental_edge_selection3_initialization1a, ratio: 0.569782, construction time: 1
+        incremental_edge_selection3_initialization1b, ratio: 0.697486, construction time: 2
+        incremental_edge_selection3_initialization2a, ratio: 0.728433, construction time: 1
+        incremental_edge_selection3_initialization2b, ratio: 0.614368, construction time: 1
+
+    convex_hull:
+        convex_hull_edge_selection1, ratio: 0.841292, construction time: 0
+        convex_hull_edge_selection2, ratio: 0.580352, construction time: 1
+        convex_hull_edge_selection3, ratio: 0.863867, construction time: 1
+
+euro-night-0000100.instance:
+    incremental:
+        incremental_edge_selection1_initialization1a, ratio: 0.467259, construction time: 96
+        incremental_edge_selection1_initialization1b, ratio: 0.482912, construction time: 201
+        incremental_edge_selection1_initialization2a, ratio: 0.48944, construction time: 214
+        incremental_edge_selection1_initialization2b, ratio: 0.433616, construction time: 91
+
+        incremental_edge_selection2_initialization1a, ratio: 0.282639, construction time: 2569
+        incremental_edge_selection2_initialization1b, ratio: 0.216542, construction time: 2319
+        incremental_edge_selection2_initialization2a, ratio: 0.308246, construction time: 3150
+        incremental_edge_selection2_initialization2b, ratio: 0.293762, construction time: 1737
+
+        incremental_edge_selection3_initialization1a, ratio: 0.767016, construction time: 2783
+        incremental_edge_selection3_initialization1b, ratio: 0.758798, construction time: 2120
+        incremental_edge_selection3_initialization2a, ratio: 0.769794, construction time: 2690
+        incremental_edge_selection3_initialization2b, ratio: 0.786097, construction time: 1810
+
+    convex_hull:
+        convex_hull_edge_selection1, ratio: 0.776614, construction time: 761
+        convex_hull_edge_selection2, ratio: 0.323875, construction time: 36788
+        convex_hull_edge_selection3, ratio: 0.858405, construction time: 31702
+
+euro-night-0000300.instance:
+    incremental:
+        incremental_edge_selection2_initialization1a, ratio: 0.209948, construction time: 109503
+        incremental_edge_selection3_initialization1a, ratio: 0.725097, construction time: 53242
+        
+
+
+euro-night-0001000.instance:
+    incremental:
+            incremental_edge_selection1_initialization1a, ratio: 0.398831, construction time: 47772
+            incremental_edge_selection1_initialization1b, ratio: 0.423878, construction time: 246627
+            incremental_edge_selection1_initialization2a, ratio: 0.371149, construction time: 60592
+            incremental_edge_selection1_initialization2b, ratio: 0.469455, construction time: 71812
+
+            
+    convex_hull:    
+        convex_hull_edge_selection1, ratio: 0.750397, construction time: 584568
+
+
+london-0000010.instance:
+    incremental:
+        incremental_edge_selection1_initialization1a, ratio: 0.723736, construction time: 0
+        incremental_edge_selection1_initialization1b, ratio: 0.747024, construction time: 3
+        incremental_edge_selection1_initialization2a, ratio: 0.610936, construction time: 0
+        incremental_edge_selection1_initialization2b, ratio: 0.559416, construction time: 0
+
+        incremental_edge_selection2_initialization1a, ratio: 0.41671, construction time: 2
+        incremental_edge_selection2_initialization1b, ratio: 0.628563, construction time: 2
+        incremental_edge_selection2_initialization2a, ratio: 0.543576, construction time: 3
+        incremental_edge_selection2_initialization2b, ratio: 0.565424, construction time: 1
+
+        incremental_edge_selection3_initialization1a, ratio: 0.721168, construction time: 1
+        incremental_edge_selection3_initialization1b, ratio: 0.768721, construction time: 3
+        incremental_edge_selection3_initialization2a, ratio: 0.820705, construction time: 3
+        incremental_edge_selection3_initialization2b, ratio: 0.435592, construction time: 1
+
+
+    convex_hull:
+        convex_hull_edge_selection1, ratio: 0.777136, construction time: 1
+        convex_hull_edge_selection2, ratio: 0.411566, construction time: 1
+        convex_hull_edge_selection3, ratio: 0.85637, construction time: 1
+
+london-0000100.instance:
+    incremental:
+        incremental_edge_selection1_initialization1a, ratio: 0.410141, construction time: 100
+        incremental_edge_selection1_initialization1b, ratio: 0.50734, construction time: 308
+        incremental_edge_selection1_initialization2a, ratio: 0.442954, construction time: 277
+        incremental_edge_selection1_initialization2b, ratio: 0.542487, construction time: 364
+
+        incremental_edge_selection2_initialization1a, ratio: 0.276998, construction time: 1708
+        incremental_edge_selection2_initialization1b, ratio: 0.268957, construction time: 1534
+        incremental_edge_selection2_initialization2a, ratio: 0.243524, construction time: 3304
+        incremental_edge_selection2_initialization2b, ratio: 0.323436, construction time: 2857
+
+        incremental_edge_selection3_initialization1a, ratio: 0.640891, construction time: 2136
+        incremental_edge_selection3_initialization1b, ratio: 0.757735, construction time: 1593
+        incremental_edge_selection3_initialization2a, ratio: 0.708716, construction time: 2960
+        incremental_edge_selection3_initialization2b, ratio: 0.747463, construction time: 3016
+
+    convex_hull:
+        convex_hull_edge_selection1, ratio: 0.683459, construction time: 779
+        convex_hull_edge_selection2, ratio: 0.316942, construction time: 57408
+        convex_hull_edge_selection3, ratio: 0.830673, construction time: 31025
+
+
+uniform-0000010-1.instance:
+    incremental:
+        incremental_edge_selection1_initialization1a, ratio: 0.519895, construction time: 0
+        incremental_edge_selection1_initialization1b, ratio: 0.703859, construction time: 0
+        incremental_edge_selection1_initialization2a, ratio: 0.489533, construction time: 1
+        incremental_edge_selection1_initialization2b, ratio: 0.83262, construction time: 0
+
+        incremental_edge_selection2_initialization1a, ratio: 0.60098, construction time: 1
+        incremental_edge_selection2_initialization1b, ratio: 0.428845, construction time: 2
+        incremental_edge_selection2_initialization2a, ratio: 0.489533, construction time: 3
+        incremental_edge_selection2_initialization2b, ratio: 0.536372, construction time: 2
+
+        incremental_edge_selection3_initialization1a, ratio: 0.777895, construction time: 1
+        incremental_edge_selection3_initialization1b, ratio: 0.618796, construction time: 3
+        incremental_edge_selection3_initialization2a, ratio: 0.725571, construction time: 2
+        incremental_edge_selection3_initialization2b, ratio: 0.912965, construction time: 1
+
+
+    convex_hull:
+        convex_hull_edge_selection1, ratio: 0.728438, construction time: 0
+        convex_hull_edge_selection2, ratio: 0.510873, construction time: 2
+        convex_hull_edge_selection3, ratio: 0.815605, construction time: 1
+
+uniform-0000100-2.instance:
+    incremental:
+        incremental_edge_selection1_initialization1a, ratio: 0.503727, construction time: 175
+        incremental_edge_selection1_initialization1b, ratio: 0.486587, construction time: 329
+        incremental_edge_selection1_initialization2a, ratio: 0.545306, construction time: 101
+        incremental_edge_selection1_initialization2b, ratio: 0.539112, construction time: 357
+
+        incremental_edge_selection2_initialization1a, ratio: 0.268339, construction time: 2043
+        incremental_edge_selection2_initialization1b, ratio: 0.355814, construction time: 2303
+        incremental_edge_selection2_initialization2a, ratio: 0.301163, construction time: 2930
+        incremental_edge_selection2_initialization2b, ratio: 0.348056, construction time: 2974
+
+        incremental_edge_selection3_initialization1a, ratio: 0.759958, construction time: 1716
+        incremental_edge_selection3_initialization1b, ratio: 0.711479, construction time: 2580
+        incremental_edge_selection3_initialization2a, ratio: 0.74828, construction time: 1677
+        incremental_edge_selection3_initialization2b, ratio: 0.742021, construction time: 2949
+        
+    convex_hull:
+        convex_hull_edge_selection1, ratio: 0.639443, construction time: 817
+        convex_hull_edge_selection2, ratio: 0.255865, construction time: 55300
+        convex_hull_edge_selection3, ratio: 0.786795, construction time: 48557
+
+uniform-0001000-1.instance:
+    incremental:
+        incremental_edge_selection1_initialization1a, ratio: 8.52067e-11, construction time: 55171
+        incremental_edge_selection1_initialization1b, ratio: 9.07634e-11, construction time: 206380
+        incremental_edge_selection1_initialization2a, ratio: 8.58053e-11, construction time: 47418
+        incremental_edge_selection1_initialization2b, ratio: 8.72386e-11, construction time: 66419
+    convex_hull:
+        convex_hull_edge_selection1, ratio: 1.32742e-10, construction time: 384544
+
+
+        
